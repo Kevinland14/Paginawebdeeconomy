@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
 </head>
 <body>
-
   <div class="login-box">
     <h2>Iniciar Sesión</h2>
     <form onsubmit="return validarLogin(event)">
