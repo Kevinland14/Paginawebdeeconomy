@@ -16,7 +16,7 @@ function login(event) {
   const claveGuardada = localStorage.getItem('clave');
 
   if (usuario === usuarioGuardado && clave === claveGuardada) {
-    window.location.href = 'bienvenida.html';
+    window.location.href = 'kevineco.html';
   } else {
     alert('Usuario o clave incorrectos');
   }
